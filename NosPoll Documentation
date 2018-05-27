@@ -1,0 +1,14 @@
+Introduction of the project
+We as society are used to make decisions collectively. The problem about this type of human behaviour, is that the results are not always true. Trust is very important nowadays and luckily human society got offered a system which guarantees this concept of trust: the blockchain. We live in a world which smartphones in our pockets have more computing power than NASA had to get us to the moon, yet the way we govern our govern societies and organisations remains the equivalent of a pocket calculator. 
+We decided that it was important to have a system which we can all trust together so that the decisions we are making are faithfully backed. We need better shared decision making tools and processes in almost every facet of our community lives. We need them to be transparent and trusted, allowing deliberation and inclusion, removing barriers rather than stacking them up. Technical, legislative and budgetary obstacles have prevented us from achieving this thus far, but do not have to hinder us any more. 
+After brainstorming for several days, we found the perfect solution for it: a voting system which we can all track the results on the blockchain. Constituencies can be engaged with immediacy and results can never be tampered with. 
+Teamphiloshopy and overview 
+Our team, Go Kaizen, are proud to present this project to the readers. ‘Kaizen’ is a japanese philosophy of continuous improvement of working practices and personal efficiency which is our life vision. The projects we are developing must have an efficiency which we are always trying to strive further. 
+Developers: @krish @sozhan @blasco @cryptorise @tapaswip @arya @satpal @aj 
+Documentation and graphic support: @linkmarine @arya @ranveer @van 
+
+Goals
+To Decentralize voting system based on Neo Blockchain.
+To enable voting using only whitelisted Neo addresses which prevents multiple voting.
+To receive accurate end results using Pie chart or Bar graph.
+To store final results on blockchain for future applications.
